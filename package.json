@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://BackendApp-aarish47.b4a.run",
+  "proxy": "backendapp1-2wy1ka30.b4a.run",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
